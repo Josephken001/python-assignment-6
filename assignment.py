@@ -118,7 +118,6 @@ def task11_reverse_string(text):
     """
     pass
 
-
 # 12
 def task12_is_prime(n):
     """
